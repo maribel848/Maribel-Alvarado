@@ -13,4 +13,8 @@ sal de cebolla al gusto
 1 unidad de tomate riñon
 1 taza de queso mozarella
 2 tazas de jamon
-1/2
+1/2 de aceutunas verdes
+aji en polvo al gusto
+precalienta el horno a 200c toma los ingredientes secos para la masa y mesclarlos en un recipiente amplio.
+realiza un hoyo en el centro de los ingredientes e incorporar los ingredientes liquidos a la massa y las especies
+mesclar bien y amazar en el mismo recipiente
