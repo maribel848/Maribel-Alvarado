@@ -1,4 +1,4 @@
-# hagamos-pizza
+- hagamos-pizza
 -ingredientes
 -1 taza de harrina de todo uso
 -ajo en polvo al gusto
