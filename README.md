@@ -23,4 +23,4 @@ seguir amazando hasta lograr una masa homogenia
 para la salsa colocar colocar todos los recipientes en la sarten y cocinar durante 5 minutos
 colocar la salsa sobre la masaesparsiendola sin llegar al borde
 colocar todos los ingredientes cortados y esparcirlos
-llevar la pizza al horno precalentado y hornear 10 a 15 minutos.
+llevar la pizza al horno precalentado y hornear 10 a 15 minutos..
