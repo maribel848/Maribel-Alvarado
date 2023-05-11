@@ -6,7 +6,7 @@
 *1/2 cucharadita de sal 
 *5 cucharadas de agua
 *5 cucharadas de aceite de oliva
-*1/2 taza maggi la rojita
+* 1/2 taza maggi la rojita
 *pure de tomate
 *sal de ajo al gusto
 *sal de cebolla al gusto
