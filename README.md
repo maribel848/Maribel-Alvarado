@@ -30,13 +30,13 @@ llevar la pizza al horno precalentado y hornear 10 a 15 minutos.
 inicio
 ### como covertir temperaturas
 como convertir de fahrenheit a selsius
-#se resta 32
-#multiplicar por.5556 (5/9.
-#resultado 10 c 
+*se resta 32
+*multiplicar por.5556 (5/9.
+*resultado 10 c 
 como convertir en grados celsius a fahreheit
-#multiplicar por .5556 (5/9)
-#se agrega 32
-#resultado 86f
-#fin
+*multiplicar por .5556 (5/9)
+*se agrega 32
+*resultado 86f
+*fin
 
 
