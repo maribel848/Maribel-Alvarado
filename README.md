@@ -41,5 +41,8 @@ como convertir en grados celsius a fahreheit
 
 
 ###geometria
+
 El volumen de cualquier pirámide es encontrada al multiplicar al área de su base por la longitud de su altura y dividir por tres. Esto significa que tenemos la siguiente fórmula: text {Volumen}=frac {1} {3}text {Área base}times text {Altura} Volumen = 31Aˊrea base× Altura
+
+* [image](https://github.com/maribel848/agamos-pizza/assets/132409580/4b4f!
 
