@@ -47,12 +47,18 @@ tenemos que calcular el volumen de una piramide, un cubo yuna esfera
 El volumen de cualquier pirámide es encontrada al multiplicar al área de su base por la longitud de su altura y dividir por tres. Esto significa que tenemos la siguiente fórmula: text {Volumen}=frac {1} {3}text {Área base}times text {Altura} Volumen = 31Aˊrea base× Altura
 
 
+![image](https://github.com/maribel848/agamos-pizza/assets/132409580/3aedd16f-fef4-40cf-961d-a3c12dd3ae01)
+
 
 *al calcular la esfera el volumen es el espasio ocupado por ella.
 
 ![image](https://github.com/maribel848/agamos-pizza/assets/132409580/bf616fa2-35b6-4c48-9d4f-f0d08d83a928)
 
 
-al calcular el cubo los tres lados son iguales en medida, se representa con el valor de "a" 
-calcular el volumen de un cubo = axaxa 
+al calcular el cubo los tres lados son iguales en medida, se representa con el valor de "2"
+2x2x2=2
+calcular el volumen de un cubo = 
+
+![image](https://github.com/maribel848/agamos-pizza/assets/132409580/3f5c06df-ce19-4e5c-8dbb-fc6c7c1d24f0)
+
 
