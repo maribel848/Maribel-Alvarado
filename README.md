@@ -40,6 +40,8 @@ como convertir en grados celsius a fahreheit
 *fin
 
 
+
+
 ###geometria
 
 tenemos que calcular el volumen de una piramide, un cubo yuna esfera
