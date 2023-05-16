@@ -72,6 +72,15 @@ calcular el volumen de un cubo = .
 
 
 
-
+Algoritmo ejerciciosuma
+	escribir "ingrese el primer numero:"
+	leer VariableQueGuardaElPrimerNumero
+	
+	escribir "ingrese el segundo numero;"
+	leer VariableQueGuardaElSegundoNumero
+	escribir "el resultado es:" VariableQueGuardaElPrimerNumero + VariableQueGuardaElSegundoNumeroVariableQueGuardaElSegundoNumero
+	
+	
+FinAlgoritmo
 
 
