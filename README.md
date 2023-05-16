@@ -63,7 +63,7 @@ al calcular el cubo los tres lados son iguales en medida, se representa con el v
 2x2x2=2
 
 
-calcular el volumen de un cubo = 
+calcular el volumen de un cubo = .
 
 * ![image](https://github.com/maribel848/agamos-pizza/assets/132409580/3f5c06df-ce19-4e5c-8dbb-fc6c7c1d24f0)
 
