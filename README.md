@@ -65,6 +65,13 @@ al calcular el cubo los tres lados son iguales en medida, se representa con el v
 
 calcular el volumen de un cubo = .
 
-* ![image](https://github.com/maribel848/agamos-pizza/assets/132409580/3f5c06df-ce19-4e5c-8dbb-fc6c7c1d24f0)
+* ![image](https://github.com/maribel848/agamos-pizza/assets/132409580/3f5c06df-ce19-4e5c-8dbb-fc6c7c1d24f0
+
+
+
+
+
+
+
 
 
