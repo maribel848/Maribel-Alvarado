@@ -6,4 +6,5 @@
 
 
 
-![IMG_20230518_155951_505](https://github.com/maribel848/agamos-pizza/assets/132409580/6449f37f-2eb1-412a-88f3-763751b76a17)
+
+![IMG_20230518_155951_505](https://github.com/maribel848/agamos-pizza/assets/132409580/b4faaf47-5a63-4c53-9f18-926e6374ebf3)
