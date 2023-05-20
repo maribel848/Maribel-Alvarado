@@ -5,5 +5,3 @@
 
 
 
-
-![0](https://github.com/maribel848/agamos-pizza/assets/132409580/580532d3-cefa-48b0-8754-e3284835456d)
