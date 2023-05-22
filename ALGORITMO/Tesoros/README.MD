@@ -39,7 +39,8 @@ se encuentre el tesoro,
 * mi respuesta personal seria
  que el tesoro se encuentra en el cofre A
  
-fin
+               
+               fin
 
 
 
