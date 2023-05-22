@@ -14,7 +14,7 @@
 
 * Eva: "4 personas estudiaron matematicas".
 
-*El profesor sabe que solo aquellos que estudiaron estarían diciendo la verdad y aquellos que no estarían mintiendo.
+* El profesor sabe que solo aquellos que estudiaron estarían diciendo la verdad y aquellos que no estarían mintiendo.
 
 
 * ¿Quién está diciendo la verdad?
@@ -22,7 +22,7 @@
 * Tratamos de verificar qué caso puede ser posible y sin contradicciones.
 
 
-  * si asumimos que Alice está diciendo la verdad, eso significa que nadie
+* si asumimos que Alice está diciendo la verdad, eso significa que nadie
 estudió, pero si ella dice que ella estudió, eso es ilógico e imposible porque entonces quiere decir que ella tampoco estudio.
 
 
