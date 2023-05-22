@@ -6,7 +6,7 @@
 * estamos en una habitacion con tres cofres.
 * sabemos que al menos uno de ellos  tiene un tesoro.
 * cada cofre tiene un mensaje, pero todos los mensajes son mentiras.
-* 
+ 
 
 * dado que cada cofre tiene un mensaje pero todos los mensajes son mentiras
 debemos eliminar las opciones ilogicas o contradictorias.
@@ -21,7 +21,7 @@ entonces dado que es una mentira,no todos los cofres tendran un tesoro, pero alg
 
 
 * cofre derecho:solo uno de estos cofres tiene tesoros.dado que es una mentira, no es posible que solo uno de los cofres tenga un tesoro.
-* 
+ 
 
 * con esta informacion, las unicas dos opciones posibles son:
 ninguno de los cofres tiene un tesoro o los cofres izquierdo y derecho tienen tesoros.
@@ -39,7 +39,7 @@ se encuentre el tesoro,
 * mi respuesta personal seria
  que el tesoro se encuentra en el cofre A
  
-*FIN
+fin
 
 
 
