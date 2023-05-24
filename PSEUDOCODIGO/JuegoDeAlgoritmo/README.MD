@@ -6,5 +6,4 @@
 
 
 
-![Uploading IMG_20230524_143927_367.jpg…]()
-
+![IMG_20230524_143927_367](https://github.com/maribel848/agamos-pizza/assets/132409580/454725aa-c0ba-4f01-a607-7d1e2bc0b65f)
