@@ -9,4 +9,5 @@
 
 
 
-![IMG_20230526_122356_876 41](https://github.com/maribel848/agamos-pizza/assets/132409580/7ddb45bc-80d5-4037-88dc-d47924ff8b2c)
+
+![IMG_20230526_122335_102 40](https://github.com/maribel848/agamos-pizza/assets/132409580/e7de8e3c-e050-485a-8f0c-6e442901850e)
