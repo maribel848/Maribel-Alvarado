@@ -16,10 +16,12 @@
  * c)se compara que 7 es mayor a 7 lo que da como resultado FALSO
  * 
   
-  * d <- 4 < 4 = FALSO
-  * se compara que 4 es menor que 4 lo que da resultado FALSO
+ * d <- 4 < 4 = FALSO
+ * se compara que 4 es menor que 4 lo que da resultado FALSO
   
   
- e <- 100 <= 90 
-	f <- 40 >= 40
+ * e <- 100 <= 90  VERDADERO 
+ * e) se compara que 90 es menor o igual a 100 dando un resultado VERDADERO 
+ 
+ * f <- 40 >= 40 
 FinAlgoritmo
