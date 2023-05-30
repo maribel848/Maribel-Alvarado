@@ -23,5 +23,9 @@
  * e <- 100 <= 90  VERDADERO 
  * e) se compara que 90 es menor o igual a 100 dando un resultado VERDADERO 
  
- * f <- 40 >= 40 
+ * f <- 40 >= 40 FALSO
+ * se compara que 40 es menor o igual que 40
+
+                      FIN
+
 FinAlgoritmo
