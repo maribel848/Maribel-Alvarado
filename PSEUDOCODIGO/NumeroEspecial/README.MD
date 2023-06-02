@@ -20,8 +20,9 @@ Algoritmo numeroEspecial
 	FinSi
 FinAlgoritmo
 
-
-Algoritmo numeroEspecial
+ 
+ ### modificado
+* Algoritmo numeroEspecial
 	leer n
 	si n == 100 Entonces
 		imprimir "este es un numero especial"
