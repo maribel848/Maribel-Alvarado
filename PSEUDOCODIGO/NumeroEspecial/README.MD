@@ -21,4 +21,20 @@ Algoritmo numeroEspecial
 FinAlgoritmo
 
 
+Algoritmo numeroEspecial
+	leer n
+	si n == 100 Entonces
+		imprimir "este es un numero especial"
+	Sino
+		//diferente de 100
+		SI n < 1000 & n % 10  == 0 entonces 
+			imprimir  "este es un numero casi especial:"
+		SiNo
+			imprimir "este numero es regular:"
+			
+		 finsi
+	FinSi
+	
+FinAlgoritmo
+
  
