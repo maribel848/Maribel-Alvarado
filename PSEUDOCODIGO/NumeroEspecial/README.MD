@@ -19,3 +19,6 @@ Algoritmo numeroEspecial
 		
 	FinSi
 FinAlgoritmo
+
+
+
