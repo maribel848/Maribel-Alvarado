@@ -1,14 +1,15 @@
 ### Tablas de multiplicar
 
 
-Algoritmo tablaDeMultiplicar
+
+Algoritmo tablasDeMultiplicar 
 	numeroUsuario = 0
-	escribir "ingrese un numero"
+	escribir "ingrese un numero" 
 	leer numeroUsuario
-	escribir "tablas del 1 al 10 del numero: " ,numeroUsuario
+	escribir "tablas del 1 al 10 del numero" ,numeroUsuario  , numeroUsuario
 	contadorTabla = 1
 	mientras contadorTabla <= 10 Hacer
-		imprimir numerousuario, " * ", contadorTabla, " = " ,contadorTabla * numerousuario
+		imprimir numeroUsuario, " * " , contadorTabla , "=" numeroUsuario * contadorTabla
 		contadorTabla = contadorTabla + 1
 	FinMientras
 	
