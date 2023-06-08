@@ -1,7 +1,7 @@
 ### Calculadora simple con switch 
 
 
-
+``````psc
 Algoritmo calculadoraSimple
 		Escribir  '======= Calculadora Simple ======='
 		Escribir  'Ingrese primer numero'
@@ -27,6 +27,6 @@ Algoritmo calculadoraSimple
 			FinSi
 FinAlgoritmo
 
-
+``````
 
 
