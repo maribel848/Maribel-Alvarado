@@ -1,7 +1,8 @@
 ### Tablas de multiplicar
 
 
-
+```````
+psc
 Algoritmo tablasDeMultiplicar 
 	numeroUsuario = 0
 	escribir "ingrese un numero" 
@@ -14,3 +15,4 @@ Algoritmo tablasDeMultiplicar
 	FinMientras
 	
 FinAlgoritmo  
+``````
