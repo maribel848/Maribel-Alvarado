@@ -13,4 +13,4 @@ Algoritmo tablasDeMultiplicar
 		contadorTabla = contadorTabla + 1
 	FinMientras
 	
-FinAlgoritmo 
+FinAlgoritmo  
