@@ -1,8 +1,8 @@
 ### Tablas de multiplicar
 
 
-```````
-psc
+
+``````psc
 Algoritmo tablasDeMultiplicar 
 	numeroUsuario = 0
 	escribir "ingrese un numero" 
