@@ -1,7 +1,7 @@
 ### calculadora simple con do while
 
 
-````pcs
+``````psc
 Algoritmo calculadoraSimpleConDoWhile
 	imprimir "=====calculadora simple======"
 	definir continuar Como Caracter
