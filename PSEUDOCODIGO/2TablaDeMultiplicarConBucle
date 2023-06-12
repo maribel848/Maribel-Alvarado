@@ -1,7 +1,7 @@
 ### tablas de multiplicar con bucle while
 
 
-psc````
+psc```
 
 Algoritmo tablasDeMultiplicacion
 		Imprimir '======= Tablas de Multiplicación ======='
@@ -17,4 +17,4 @@ Algoritmo tablasDeMultiplicacion
 
 	
 FinAlgoritmo
-````
+```
