@@ -1,4 +1,4 @@
-### tablas de multiplicar con bucle while
+              ### tablas de multiplicar con bucle while
 
 
                psc```
