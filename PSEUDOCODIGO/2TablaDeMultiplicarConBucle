@@ -1,6 +1,6 @@
-tablas de multiplicar con bucle while
+### tablas de multiplicar con bucle while
 
-```psc
+```pcs
 
 Algoritmo tablasDeMultiplicacion
 		Imprimir '======= Tablas de Multiplicación ======='
