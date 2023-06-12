@@ -1,6 +1,7 @@
               ### tablas de multiplicar con bucle for
   
-  psc````
+  pcs````
+  
  Algoritmo tablasDeMultip
  Imprimir '======= Tablas de Multiplicación ======='
  Imprimir 'Ingrese la tabla a calcular:'
@@ -15,5 +16,4 @@
 
 	
    FinAlgoritmo
-   
-````
+   ````
