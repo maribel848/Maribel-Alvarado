@@ -2,7 +2,7 @@
  
  ```psc
 
-                Algoritmo tablasDeMu
+                Algoritmo tablasDeMultiplicarConBucleFor
 		Imprimir '======= Tablas de Multiplicación ======='
 		Imprimir 'Ingrese la tabla a calcular:'
 		Leer tabla
