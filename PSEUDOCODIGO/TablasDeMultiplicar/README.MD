@@ -5,7 +5,7 @@
 ```psc
 Algoritmo tablasDeMultiplicar 
 	numeroUsuario = 0
-	escribir "ingrese un numero" 
+	escribir "ingrese tabla a calcular" 
 	leer numeroUsuario
 	escribir "tablas del 1 al 10 del numero" ,numeroUsuario  
 	contadorTabla = 1
