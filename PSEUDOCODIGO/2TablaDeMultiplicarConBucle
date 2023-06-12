@@ -1,9 +1,9 @@
 ### tablas de multiplicar con bucle while
 
 
-psc```
+               psc```
 
-Algoritmo tablasDeMultiplicacion
+                Algoritmo tablasDeMultiplicacion
 		Imprimir '======= Tablas de Multiplicación ======='
 		Imprimir 'Ingrese la tabla a calcular:'
 		Leer tabla
@@ -16,5 +16,5 @@ Algoritmo tablasDeMultiplicacion
 
 
 	
-FinAlgoritmo
-```
+              FinAlgoritmo
+               ```
