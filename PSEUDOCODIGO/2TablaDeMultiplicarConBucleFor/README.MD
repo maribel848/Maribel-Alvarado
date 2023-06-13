@@ -1,20 +1,23 @@
  ### tablas de multiplicar con bucle for
  
+ 
+ 
  ```psc
-
-                Algoritmo tablasDeMultiplicarConBucleFor
+Algoritmo tablasDeMultiplicarConBucleFor
 		Imprimir '======= Tablas de Multiplicación ======='
 		Imprimir 'Ingrese la tabla a calcular:'
 		Leer tabla
 		Imprimir '  Tabla de ' + ConvertirATexto(tabla) + ' tablas de '
-		iterador <- 1
-		Mientras iterador <= 10 Hacer
-			Imprimir ConvertirATexto(tabla) ' *  ' + ConvertirATexto(iterador) + ' = ' ConvertirATexto(tabla * iterador)
-			iterador <- iterador + 1
-		Fin Mientras
+		
 
+			Para iterador<-1 Hasta 10  Con Paso 1 Hacer
+				Imprimir ConvertirATexto(tabla) ' *  ' + ConvertirATexto(iterador) + ' = ' ConvertirATexto(tabla * iterador)
+				
+			Fin Para
+		
+		
+		
 
-	
 FinAlgoritmo
 
 ````
