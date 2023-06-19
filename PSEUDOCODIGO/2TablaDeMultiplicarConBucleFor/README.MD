@@ -13,7 +13,7 @@ Algoritmo tablasDeMultiplicarConBucleFor
 			Para iterador<-1 Hasta 10  Con Paso 1 Hacer
 				Imprimir ConvertirATexto(tabla) ' *  ' + ConvertirATexto(iterador) + ' = ' ConvertirATexto(tabla * iterador)
 				
-			Fin Para
+			Fin Para 
 		
 		
 		
