@@ -1,7 +1,7 @@
-## SUMA Y COMISION
+## VENTAS Y COMISION
 
 
-````
+```` psc
 Algoritmo ventasYComisiones
 	
 	definir ventaTotal Como Entero
@@ -27,3 +27,4 @@ Algoritmo ventasYComisiones
 			
 		FinSi
 FinAlgoritmo
+````
