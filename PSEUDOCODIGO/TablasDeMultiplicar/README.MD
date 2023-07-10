@@ -15,7 +15,7 @@ Algoritmo tablasDeMultiplicar
 	FinMientras
 	
 FinAlgoritmo  
-```
+``` 
 
 
 
