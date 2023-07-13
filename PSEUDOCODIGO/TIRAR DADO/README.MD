@@ -1,4 +1,4 @@
-## NUMERO AL AZAR, TIRAR DADO
+ ## NUMERO AL AZAR, TIRAR DADO
 
 ````psc
 Algoritmo tirar_Dados
